@@ -1,5 +1,5 @@
 {
-  "name": "geekoweb-portfolio",
+  "name": "space-portfolio",
   "version": "1.0.1",
   "private": true,
   "scripts": {
@@ -8,13 +8,17 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "author": {
+    "name": "Sanidhya Kumar Verma",
+    "email": "sanidhya.verma12345@gmail.com",
+    "url": "https://github.com/sanidhyy"
+  },
   "description": "geekoweb portfolio.",
   "keywords": [
     "reactjs",
     "nextjs",
     "vercel",
     "react",
-    "geekoweb",
     "geekoweb-portfolio",
     "portfolio",
     "react-icons",
