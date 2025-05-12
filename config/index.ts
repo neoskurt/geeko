@@ -1,0 +1,38 @@
+import type { Metadata } from "next";
+
+export const siteConfig: Metadata = {
+  title: "GeekoWeb | Création de Sites Web & Applications Mobiles",
+  description: "Bienvenue sur le portfolio de GeekoWeb, votre partenaire de confiance pour le développement web et mobile.",
+  keywords: [
+    "vuejs",
+    "nodejs",
+    "react",
+    "react-native",
+    "développement web",
+    "développement mobile",
+    "applications web",
+    "applications mobiles",
+    "front-end",
+    "back-end",
+    "full-stack",
+    "portfolio",
+    "geekoweb",
+    "développeur",
+    "programmation",
+    "web design",
+    "ui/ux",
+    "javascript",
+    "typescript",
+    "html",
+    "css",
+    "tailwindcss",
+    "nextjs",
+    "vercel",
+    "framer-motion",
+    "animation",
+  ] as Array<string>,
+  authors: {
+    name: "GeekoWeb",
+    url: "https://github.com/geekoweb",
+  },
+} as const;
